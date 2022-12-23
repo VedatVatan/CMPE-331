@@ -1,7 +1,12 @@
 /*
  * Stage: Development-01
  * @author: Ahmet Berkay Seyhun
- * @author: Elif K�r�kkaya
+ * @author: Elif Kýrýkkaya
+ * 
+ * 
+ * CODE REVIEW
+ * @author: AHMET KIVANÇ DEMİRKIRAN, 120200133
+ * @author: Vedat Vatan, 120200148
  *
  */
 
@@ -140,7 +145,6 @@ public class LoginWindow extends JFrame implements ActionListener {
 			lframe.setVisible(true);
 		
 		}
-
 		else {
 			JOptionPane.showMessageDialog(btn01, "Invalid Username or Password");
 		}
